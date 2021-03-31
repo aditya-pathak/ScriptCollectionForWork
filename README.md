@@ -4,3 +4,4 @@ Collection of useful scripts for workplace.
 2. WebUrlTest.ps1 - Reads list of urls from C:\URLtest\URLList.txt and generates html report in same folder.
 3. AppPoolIdentity.ps1 - Fetches account credentials used in IIS Applicatino pool. Requires running with admin rights.
 4. GetTableSize.sql - Lists all tables in DB with their data size and allocated disk space.
+5. TableColumns.sql - Lists all the tables and their columns, data types and foreign keys.
