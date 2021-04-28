@@ -5,3 +5,4 @@ Collection of useful scripts for workplace.
 3. AppPoolIdentity.ps1 - Fetches account credentials used in IIS Applicatino pool. Requires running with admin rights.
 4. GetTableSize.sql - Lists all tables in DB with their data size and allocated disk space.
 5. TableColumns.sql - Lists all the tables and their columns, data types and foreign keys.
+6. 006 - OPENDNS (folder) - contains scripts to set and reset dns settings. There are 2 versions available ps1 and bat, any one can be used individually. Change adapter name and dns ip as per your use.
