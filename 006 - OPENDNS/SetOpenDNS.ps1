@@ -1,0 +1,1 @@
+Set-DnsClientServerAddress -InterfaceAlias Wi-Fi -ServerAddresses ("208.67.222.222","208.67.220.220")

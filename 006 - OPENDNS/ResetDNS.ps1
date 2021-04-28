@@ -1,0 +1,1 @@
+Set-DnsClientServerAddress -InterfaceAlias Wi-Fi -ResetServerAddresses
